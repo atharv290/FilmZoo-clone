@@ -1,2 +1,2 @@
-hi I am Atharva i am going to hackthon today
+hi I am Atharva
 
